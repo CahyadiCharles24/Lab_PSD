@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\gymme\\view\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\view\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|d:\\binus\\semester 4\\pattern software design\\lab\\projek_lab\\gymme\\gymme\\view\\admin\\adminhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\view\\admin\\adminhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|d:\\binus\\semester 4\\pattern software design\\lab\\projek_lab\\gymme\\gymme\\view\\customer\\custhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\view\\customer\\custhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\gymme\\view\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\view\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|d:\\binus\\semester 4\\pattern software design\\lab\\projek_lab\\gymme\\gymme\\view\\admin\\adminhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\view\\admin\\adminhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|d:\\binus\\semester 4\\pattern software design\\lab\\projek_lab\\gymme\\gymme\\view\\customer\\custhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\view\\customer\\custhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\gymme\\view\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\view\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\gymme\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|d:\\binus\\semester 4\\pattern software design\\lab\\projek_lab\\gymme\\gymme\\master\\adminmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\master\\adminmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|d:\\binus\\semester 4\\pattern software design\\lab\\projek_lab\\gymme\\gymme\\master\\customermaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\master\\customermaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|d:\\binus\\semester 4\\pattern software design\\lab\\projek_lab\\gymme\\gymme\\master\\adminmaster.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\master\\adminmaster.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|d:\\binus\\semester 4\\pattern software design\\lab\\projek_lab\\gymme\\gymme\\master\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\master\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|d:\\binus\\semester 4\\pattern software design\\lab\\projek_lab\\gymme\\gymme\\master\\customermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\master\\customermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__BINUS_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_LAB_PROJEK_LAB_GYMME_GYMME_APP_DATA_MYDATABASE.MDF/True/SqlTable/dbo.MsUser.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\gymme\\view\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\view\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\gymme\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\gymme\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\gymme\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\gymme\\repository\\dbinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\repository\\dbinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\gymme\\view\\loginpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9413863B-3518-4B31-92AB-3E5E8CE2BA37}|GymMe\\GymMe.csproj|solutionrelative:gymme\\view\\loginpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "GymMe\\View\\LoginPage.aspx.cs",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\LoginPage.aspx.cs",
+              "RelativeToolTip": "GymMe\\View\\LoginPage.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:38:04.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminHome.aspx",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\Admin\\AdminHome.aspx",
+              "RelativeDocumentMoniker": "GymMe\\View\\Admin\\AdminHome.aspx",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\Admin\\AdminHome.aspx",
+              "RelativeToolTip": "GymMe\\View\\Admin\\AdminHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-03T05:55:11.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustHome.aspx",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\Customer\\CustHome.aspx",
+              "RelativeDocumentMoniker": "GymMe\\View\\Customer\\CustHome.aspx",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\Customer\\CustHome.aspx",
+              "RelativeToolTip": "GymMe\\View\\Customer\\CustHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-03T05:47:23.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterPage.aspx.cs",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\RegisterPage.aspx.cs",
+              "RelativeDocumentMoniker": "GymMe\\View\\RegisterPage.aspx.cs",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\RegisterPage.aspx.cs",
+              "RelativeToolTip": "GymMe\\View\\RegisterPage.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:14:55.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminHome.aspx.cs",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\Admin\\AdminHome.aspx.cs",
+              "RelativeDocumentMoniker": "GymMe\\View\\Admin\\AdminHome.aspx.cs",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\Admin\\AdminHome.aspx.cs",
+              "RelativeToolTip": "GymMe\\View\\Admin\\AdminHome.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:02:10.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustHome.aspx.cs",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\Customer\\CustHome.aspx.cs",
+              "RelativeDocumentMoniker": "GymMe\\View\\Customer\\CustHome.aspx.cs",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\Customer\\CustHome.aspx.cs",
+              "RelativeToolTip": "GymMe\\View\\Customer\\CustHome.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:48:00.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "GymMe\\View\\LoginPage.aspx",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\LoginPage.aspx",
+              "RelativeToolTip": "GymMe\\View\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-02T05:38:11.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "GymMe\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "GymMe\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:22:30.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminMaster.Master.cs",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Master\\AdminMaster.Master.cs",
+              "RelativeDocumentMoniker": "GymMe\\Master\\AdminMaster.Master.cs",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Master\\AdminMaster.Master.cs",
+              "RelativeToolTip": "GymMe\\Master\\AdminMaster.Master.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:45:52.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerMaster.Master.cs",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Master\\CustomerMaster.Master.cs",
+              "RelativeDocumentMoniker": "GymMe\\Master\\CustomerMaster.Master.cs",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Master\\CustomerMaster.Master.cs",
+              "RelativeToolTip": "GymMe\\Master\\CustomerMaster.Master.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvyEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:45:14.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminMaster.Master.designer.cs",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Master\\AdminMaster.Master.designer.cs",
+              "RelativeDocumentMoniker": "GymMe\\Master\\AdminMaster.Master.designer.cs",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Master\\AdminMaster.Master.designer.cs",
+              "RelativeToolTip": "GymMe\\Master\\AdminMaster.Master.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:57:39.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminMaster.Master",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Master\\AdminMaster.Master",
+              "RelativeDocumentMoniker": "GymMe\\Master\\AdminMaster.Master",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Master\\AdminMaster.Master",
+              "RelativeToolTip": "GymMe\\Master\\AdminMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-03T04:43:34.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerMaster.Master",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Master\\CustomerMaster.Master",
+              "RelativeDocumentMoniker": "GymMe\\Master\\CustomerMaster.Master",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Master\\CustomerMaster.Master",
+              "RelativeToolTip": "GymMe\\Master\\CustomerMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-03T04:43:53.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.MsUser [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__BINUS_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_LAB_PROJEK_LAB_GYMME_GYMME_APP_DATA_MYDATABASE.MDF/True/SqlTable/dbo.MsUser.sql",
+              "ToolTip": "dbo.MsUser [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-02T05:53:41.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterPage.aspx",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\RegisterPage.aspx",
+              "RelativeDocumentMoniker": "GymMe\\View\\RegisterPage.aspx",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\RegisterPage.aspx",
+              "RelativeToolTip": "GymMe\\View\\RegisterPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-02T05:42:35.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserHandler.cs",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Handler\\UserHandler.cs",
+              "RelativeDocumentMoniker": "GymMe\\Handler\\UserHandler.cs",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Handler\\UserHandler.cs",
+              "RelativeToolTip": "GymMe\\Handler\\UserHandler.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIBJwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:17:31.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserFactory.cs",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Factory\\UserFactory.cs",
+              "RelativeDocumentMoniker": "GymMe\\Factory\\UserFactory.cs",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Factory\\UserFactory.cs",
+              "RelativeToolTip": "GymMe\\Factory\\UserFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:15:03.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "GymMe\\Controller\\UserController.cs",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Controller\\UserController.cs",
+              "RelativeToolTip": "GymMe\\Controller\\UserController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwEMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:15:52.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DBInstance.cs",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Repository\\DBInstance.cs",
+              "RelativeDocumentMoniker": "GymMe\\Repository\\DBInstance.cs",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\Repository\\DBInstance.cs",
+              "RelativeToolTip": "GymMe\\Repository\\DBInstance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:24:24.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginPage.aspx.designer.cs",
+              "DocumentMoniker": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\LoginPage.aspx.designer.cs",
+              "RelativeDocumentMoniker": "GymMe\\View\\LoginPage.aspx.designer.cs",
+              "ToolTip": "D:\\binus\\SEMESTER 4\\Pattern Software Design\\lab\\Projek_Lab\\GymMe\\GymMe\\View\\LoginPage.aspx.designer.cs",
+              "RelativeToolTip": "GymMe\\View\\LoginPage.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAlwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:42:14.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
