@@ -1,6 +1,7 @@
 ﻿using GymMe.Model;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity.Infrastructure;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -34,5 +35,24 @@ namespace GymMe.Repository
             && u.UserPassword==password).FirstOrDefault();
         }
 
+        public static void UpdateUser(int userID,string Email, string Username,DateTime DOB, string Gender ,string newPassword)
+        {
+            MsUser user = (from x in db.MsUsers where x.UserID == userID select x).FirstOrDefault();
+            user.UserEmail = Email;
+            user.UserName = Username;
+            user.UserDOB = DOB;
+            user.UserGender = Gender;
+            user.UserPassword = newPassword;
+            db.SaveChanges();
+            
+        }
+        public static MsUser OldPassword(int userID, string password)
+        {
+            MsUser user = db.MsUsers.Where(u => u.UserID == userID && u.UserPassword == password).FirstOrDefault();
+            return user;
+        }
+
+
+        
     }
 }

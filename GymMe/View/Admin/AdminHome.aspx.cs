@@ -23,6 +23,7 @@ namespace GymMe.View.Admin
                 {
                     string id = Request.Cookies["user_cookie"].Value;
                     MsUser userFromCookie = UserRepository.getUserById(id);
+                    Session["user"] = userFromCookie;
                     if (userFromCookie.UserRole.Equals("customer"))
                     {
                         Response.Redirect("~/View/Customer/CustHome.aspx");

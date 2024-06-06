@@ -1,4 +1,5 @@
 ﻿using GymMe.Handler;
+using GymMe.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -68,6 +69,51 @@ namespace GymMe.Controller
             return UserHandler.loginUser(username,password);
         }
 
+        public static string validateUpdate(int userID,string email,string username,string gender,DateTime DOB,string newPassword)
+        {
+            if (username == "")
+            {
+                return "Username is Required";
+            }
+            else if (username.Length < 5 || username.Length > 15)
+            {
+                return "username length between 5 to 15";
+            }
 
+            if (email == "")
+            {
+                return "Email is Required";
+            }
+            else if (!email.Contains(".com"))
+            {
+                return "Email must contain .com";
+            }
+
+            if (gender == "")
+            {
+                return "Gender Must Choosen";
+            }
+
+            if (DOB == DateTime.MinValue)
+            {
+                return "Select DOB!";
+            }
+
+            if (newPassword == "")
+            {
+                return "Password is Required";
+            }
+
+            return UserHandler.UpdateUser(userID, email, username,DOB, gender,newPassword);
+        }
+        public static string validateOldPassword(int userID,string password)
+        {
+            if (password == "")
+            {
+                return "Password is Required";
+            }
+            return UserHandler.OldPassword(userID, password);
+        }
+       
     }
 }

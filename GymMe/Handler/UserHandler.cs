@@ -3,6 +3,9 @@ using GymMe.Model;
 using GymMe.Repository;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
+using System.Drawing;
 using System.Linq;
 using System.Web;
 
@@ -10,10 +13,10 @@ namespace GymMe.Handler
 {
     public class UserHandler
     {
-        public static String registUser(String username, String email, String password, 
+        public static String registUser(String username, String email, String password,
             String gender, DateTime DOB, String role)
         {
-            MsUser user = UserRepository.getUserByUsername(email);
+            MsUser user = UserRepository.getUserByUsername(username);
 
             if (user != null)
             {
@@ -30,7 +33,7 @@ namespace GymMe.Handler
         {
             MsUser user = UserRepository.checkLogin(username, password);
 
-            if(user == null)
+            if (user == null)
             {
                 return "Username or Password is invalid";
             }
@@ -38,5 +41,31 @@ namespace GymMe.Handler
             return "";
         }
 
+        public static string UpdateUser(int userID, string Email, string Username, DateTime DOB, string Gender, string newPassword)
+        {
+    
+            UserRepository.UpdateUser(userID, Email, Username, DOB, Gender, newPassword);
+
+            return ("");
+        }
+
+        public static string OldPassword(int userID, string Password)
+        {
+            MsUser user = UserRepository.OldPassword(userID, Password);
+
+            if (user == null)
+            {
+                return "User not found";
+            }
+
+            if (user.UserPassword != Password)
+            {
+                return "Old password is incorrect";
+            }
+
+            return "";
+
+        }
+        
     }
 }
