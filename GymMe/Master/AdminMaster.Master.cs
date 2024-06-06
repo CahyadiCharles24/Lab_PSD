@@ -31,7 +31,7 @@ namespace GymMe.Layout
 
         protected void Btn_Profile_Click(object sender, EventArgs e)
         {
-
+            Response.Redirect("~/View/Admin/AdminProfilePage.aspx");
         }
 
         protected void Btn_Report_Click(object sender, EventArgs e)

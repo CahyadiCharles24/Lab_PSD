@@ -90,6 +90,7 @@
       <LastGenOutput>ModelDB.cs</LastGenOutput>
     </Content>
     <Content Include="View\Admin\AdminHome.aspx" />
+    <Content Include="View\Admin\AdminProfilePage.aspx" />
     <Content Include="View\Customer\CustHome.aspx" />
     <Content Include="View\LoginPage.aspx" />
     <Content Include="View\RegisterPage.aspx" />
@@ -155,6 +156,13 @@
     </Compile>
     <Compile Include="View\Admin\AdminHome.aspx.designer.cs">
       <DependentUpon>AdminHome.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\Admin\AdminProfilePage.aspx.cs">
+      <DependentUpon>AdminProfilePage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\Admin\AdminProfilePage.aspx.designer.cs">
+      <DependentUpon>AdminProfilePage.aspx</DependentUpon>
     </Compile>
     <Compile Include="View\Customer\CustHome.aspx.cs">
       <DependentUpon>CustHome.aspx</DependentUpon>
